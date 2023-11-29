@@ -1,0 +1,26 @@
+@import url(@/components/Header/Header.scss);
+@import url(@/components/Main/Main.scss);
+@import url(@/components/Footer/Footer.scss);
+@import url(@/assets/fonts/font.scss);
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    border: none;
+    scroll-behavior: smooth;
+}
+.container{
+    max-width: 1440px;
+    margin: 0 auto;
+}
+.contain{
+    max-width: 1920px;
+    margin: 0 auto;
+}
+body{
+    background: rgb(70,0,117);
+    background: radial-gradient(circle, rgba(70,0,117,0.8435749299719888) 0%, rgba(27,14,75,0.9444152661064426) 34%, rgba(0,2,66,0.8603816526610644) 67%, rgba(22,0,37,0.8575805322128851) 100%);
+}

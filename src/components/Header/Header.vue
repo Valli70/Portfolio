@@ -19,7 +19,7 @@
             </p>
             
         </div>
-        <img src="../../assets/img/ava.JPG" alt="" id="ava">
+        <img src="@/assets/img/ava.jpg" alt="" id="ava">
 
         </div>
     </div>
